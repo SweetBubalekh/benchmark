@@ -1,16 +1,23 @@
 package com.company;
 
-import java.io.File;
+import javax.swing.*;
+import java.io.*;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import static com.company.Core.testFile;
+import static com.company.Core.dataDir;
 
 public class Discs {
-    void DiscViev() {
-        System.out.println("Список дисков:");
-        File[] roots = File.listRoots();
-        for(int i = 0; i < roots.length; i++) {
-            if(roots[i].canWrite())
-                System.out.println("Диск #" + (i+1) + " " + roots[i].getAbsolutePath() + ". Свободное место на диске: " + roots[i].getFreeSpace()/(1024*1024*1024) + " Гб.");
+
+    void StartCheck(JTextArea T) {
+        testFile = new File(dataDir.getAbsolutePath()+File.separator+"data.tmp");
+        String mode = "rwd";
+        try(RandomAccessFile AccFile = new RandomAccessFile(testFile, mode)) {
+
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
         }
     }
-
-    
 }
