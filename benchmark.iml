@@ -7,6 +7,20 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../commons IO" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://$MODULE_DIR$/../../../commons IO/docs" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../commons IO" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/../../../commons IO" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../commons IO" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
   </component>
 </module>
-

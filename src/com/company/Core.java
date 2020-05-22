@@ -3,18 +3,19 @@ package com.company;
 import javax.swing.*;
 import java.awt.*;
 import java.io.File;
+import java.math.BigInteger;
+import java.util.Arrays;
+import java.util.Scanner;
 
 public class Core {
 
     public static File testFile = null;
     public static File dataDir = null;
 
-    void Core(){
+    void Core() {
         Discs discs = new Discs();
         CreateForm();
-        //discs.DiscViev();
-    }
-
+        }
     void CreateForm(){
         EventQueue.invokeLater(new Runnable() {
             @Override

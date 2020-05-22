@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c80bda29-76bd-48d0-bea0-20c3e20358ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TextComponentFrame.java" afterDir="false" />
+    <list default="true" id="c80bda29-76bd-48d0-bea0-20c3e20358ad" name="Default Changelist" comment="Latest version of project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark.iml" beforeDir="false" afterPath="$PROJECT_DIR$/benchmark.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Core.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Core.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Discs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Discs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/TextComponentFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TextComponentFrame.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,6 +36,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="sergey.gorbunov &lt;work_mail7@mail.ru&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YwOxdgdYex7TSV0Jb1Hhfgomws" />
@@ -35,10 +53,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../java/jDiskMark-master" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../commons IO" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propGUI" />
   </component>
   <component name="RecentsManager">
@@ -93,7 +111,16 @@
       <workItem from="1588566326711" duration="2259000" />
       <workItem from="1588662765248" duration="696000" />
       <workItem from="1588663860000" duration="3001000" />
-      <workItem from="1588675125825" duration="555000" />
+      <workItem from="1588675125825" duration="4448000" />
+      <workItem from="1589531655325" duration="61000" />
+      <workItem from="1589534555762" duration="165000" />
+      <workItem from="1589534806327" duration="88000" />
+      <workItem from="1589957119313" duration="2707000" />
+      <workItem from="1589974668487" duration="11101000" />
+      <workItem from="1590052457217" duration="383000" />
+      <workItem from="1590062139901" duration="3972000" />
+      <workItem from="1590126874019" duration="2444000" />
+      <workItem from="1590129344906" duration="264000" />
     </task>
     <servers />
   </component>
@@ -112,6 +139,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Latest version of project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Latest version of project" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1872" height="276" key="GridCell.Tab.0.bottom" timestamp="1583852347236">
